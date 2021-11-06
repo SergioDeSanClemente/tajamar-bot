@@ -1,0 +1,6 @@
+{
+    "firstHeader":"---\n1.-Si escribiste el término correctamente: ",
+    "secondHeader":"\n2.-Si no escribiste el término correctamente prueba este: ",
+    "ClientOn":"El bot se encuentra online, escribe cualquier cosa en este canal para obtener el link de la wiki",
+    "ClientOff":"El bot se encuentra offline."
+}
