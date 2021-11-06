@@ -1,0 +1,11 @@
+{
+    "botToken":"YOUR BOT TOKEN ID",
+    "channelID":"YOUR CHANNEL ID",
+    "firstHeader":"---\n1.-If you wrote the correct term: ",
+    "secondHeader":"\n2.-If the first option doesn't work, try this one: ",
+    "link1":"https://terraria.fandom.com/wiki/",
+    "link2_1":"https://terraria.fandom.com/wiki/Special:Search?query=",
+    "link2_2":"&scope=internal&navigationSearch=true",
+    "ClientOn":"Bot is online, type anything to search it on the wiki",
+    "ClientOff":"Bot is offline."
+}
